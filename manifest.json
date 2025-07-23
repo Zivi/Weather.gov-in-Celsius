@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Snow Bird",
     "version": "1.0",
-    "description": "Adds Celcius values to the extended forecast on weather.gov",
+    "description": "Adds Celsius values to the extended forecast on weather.gov",
     "permissions": ["scripting", "activeTab"],
     "action": {
       "default_icon": "thermometer.png"
